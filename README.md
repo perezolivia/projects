@@ -8,6 +8,18 @@ Olivia's personal coding projects. / Proyectos personales de código de Olivia.
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
 ### Editor de fotos BMP
 Esto es un editor de imágenes.
 
