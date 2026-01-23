@@ -43,15 +43,27 @@ Para poder conformar el sistema, se pasó por distintas áreas del ciclo de vida
 ##### Diagramado y Diseñado de Sistemas
 - **Realización de un DER que cumpla los requisitos del alcance.**
 
-#### Implementación y Desarrollo del sistema
+##### Implementación y Desarrollo del sistema
 - **Instalación y documentación del DBMS a utilizar con su debida documentación correspondiente**
-- **Creación de los objetos necesarios** (stored procedures, funciones) **para la importación de datos de los distintos tipos de archivos** (.csv, .xlsx, .txt, .json)
+- **Creación de los objetos necesarios** (base de datos, tablas, vistas, stored procedures, funciones, triggers, etc) **para la importación de datos de los distintos tipos de archivos** (.csv, .xlsx, .txt, .json)
 - **Normalización de datos**
 - **Generación de reportes específicos mediante SP parametrizados, con informes XML para algunos de ellos**
 - **Creación de índices para acelerar y optimizar consultas**
 - **Incorporación de APIs como fuentes de datos externas**
 - **Cifrado de datos sensibles/personales**
-- 
+- **Creación de políticas de respaldo, programación de backups y RPO**
+
+##### Pruebas / Testing
+- **Creación de casos de prueba diversos que cumplan con los criterios de aceptación**
+- **Revisión de documentos entregables y código fuente para asegurar su ajuste a las pautas**
+- **Creación de scripts de testing ejecutables incluyendo los conjuntos de prueba**
+- **Corrección de errores encontrados durante la fase de pruebas**
+
+##### Lanzamiento, Despliegue y Mantenimiento
+- **Corrección de errores, actualizaciones y adaptación del sistema a nuevas necesidades mediante el mantenimiento continuo.**
+
+#### 🌠 Conocimientos aplicados
+
 
   
 
