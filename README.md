@@ -124,7 +124,7 @@ Se generó el documento de instalación para la base de datos.
 #### Entrega 5
 Se realizó la importación de los archivos que contienen la información relacionada a los consorcios y las unidades funcionales.
 #### Entrega 6 
-Se generó una serie de reportes requeridos por la consigna. 
+Se generó una serie de reportes requeridos. 
 #### Entrega 7
 Se establecieron políticas de seguridad como la creación de usuarios y roles específicos, así como también se realizó la encriptación de datos personales y/o sensibles.
 
