@@ -112,26 +112,19 @@ La base de datos se estructura en esquemas lógicos para separar dominios de neg
 | **`utils`** | Herramientas de sistema e importación. | (Scripts de carga masiva y funciones auxiliares) |
 
 ### Organización del proyecto
-El proyecto se encuentra organizado según las 7 entregas realizadas. 
-
+Se realizaron siete entregas distintas del proyecto. 
 #### Entrega 1
 Se estableció un escenario hipotético en el que el cliente dispone de un servidor con determinadas capacidades y el equipo debió analizar si estas eran suficientes para alojar el motor de base de datos OracleDB.
-
 #### Entrega 2
 Se analizó la posibilidad de alojar la base de datos en la nube, contando con 3 alternativas: GCP, AWS y Microsoft Azure. 
-
 #### Entrega 3
 Se diseñó el DER para almacenar la información requerida para la gestión de las expensas de un consorcio. 
-
 #### Entrega 4
 Se generó el documento de instalación para la base de datos. 
-
 #### Entrega 5
 Se realizó la importación de los archivos que contienen la información relacionada a los consorcios y las unidades funcionales.
-
 #### Entrega 6 
 Se generó una serie de reportes requeridos por la consigna. 
-
 #### Entrega 7
 Se establecieron políticas de seguridad como la creación de usuarios y roles específicos, así como también se realizó la encriptación de datos personales y/o sensibles.
 
