@@ -1,11 +1,9 @@
-<img width="2566" height="900" alt="image" src="https://github.com/user-attachments/assets/fea5ef79-6aa0-43ef-bbb2-09b80222bcc7" />
-⊹ ࣪ ˖༊·˚
+<img width="1433" height="450" alt="image" src="https://github.com/user-attachments/assets/fea5ef79-6aa0-43ef-bbb2-09b80222bcc7" />
  
----
 ## ENGLISH 🇬🇧
-# ⋆.ೃ࿔*:･ 🦋 ⊹ ࣪ ˖༊·˚ My projects ⊹ ࣪ ˖༊·˚ 🦋 ⋆.ೃ࿔*:･
+# ⋆.ೃ࿔*:･  ⊹ ࣪ ˖༊·˚ My projects ⊹ ࣪ ˖༊·˚  ⋆.ೃ࿔*:･ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q0NjZjbGhwZml5dm85bHNxNmk5ejNxcHNwNG11NGsyb25jeXBtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RRDU54Jjeosw6vUqGL/giphy.gif" width="100" alt="orange butterfly">
 Olivia's personal coding projects.
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/dc235f90-5371-48da-880b-a2457fe970eb" />
+
 
 # INDEX
    - [BMP photo editor](#editor-de-fotos-bmp)
@@ -13,7 +11,7 @@ Olivia's personal coding projects.
   - [Sistema centralizado de expensas para consorcios](#sistema-centralizado-de-expensas-para-consorcios)
 ---
 ## ESPAÑOL 🇦🇷
-# ⋆.ೃ࿔*:･ 🦋 ⊹ ࣪ ˖༊·˚ Mis Proyectos ⊹ ࣪ ˖༊·˚ 🦋 ⋆.ೃ࿔*:･
+# ⋆.ೃ࿔*:･  ⊹ ࣪ ˖༊·˚ Mis Proyectos ⊹ ࣪ ˖༊·˚  ⋆.ೃ࿔*:･ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q0NjZjbGhwZml5dm85bHNxNmk5ejNxcHNwNG11NGsyb25jeXBtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RRDU54Jjeosw6vUqGL/giphy.gif" width="100" alt="orange butterfly">
 Proyectos personales de código de Olivia.
 
 # ÍNDICE 
@@ -84,14 +82,25 @@ Para poder conformar el sistema, se pasó por distintas áreas del ciclo de vida
 - **Corrección de errores, actualizaciones y adaptación del sistema a nuevas necesidades mediante el mantenimiento continuo.**
 </details>
 
-## 🌠 TL;DR: Conocimientos aplicados
+### 🌠 TL;DR: Conocimientos aplicados
+<details>
+   <summary> </summary>
+ 
 - Análisis de requerimientos
 - Redacción técnica
 - Elaboración de DER
-- Manipulado de SQL Server
-- SQL: Creación de bases de datos, tablas (globales, en memoria, temporales, etc), stored procedures, vistas, triggers, funciones, índices, entre otros objetos. SQL, SQL dinámico y T-SQL. Importación de datos masivos de archivos JSON, .txt, .xlsx y .csv) usando ACE OLEDB. XML para presentar consultas. Incorporación de APIs externas con T-SQL. Creación de roles, usuarios y contraseñas. Encriptado de información sensible con hash.
+- Manipulado de Microsoft SQL Server
+- **SQL**:
+  -  Creación de bases de datos, tablas (globales, en memoria, temporales, etc), stored procedures, vistas, triggers, funciones, índices, entre otros objetos.
+  -  SQL, SQL dinámico y T-SQL.
+  -  Importación de datos masivos de archivos JSON, .txt, .xlsx y .csv) usando ACE OLEDB.
+  -  XML para presentar consultas.
+  -  Incorporación de APIs externas con T-SQL.
+  -  Creación de roles, usuarios y contraseñas.
+  -  Encriptado de información sensible con hash.
 - Manejo de sistemas de control de versiones como Git y su conexión a repositorios en GitHub
 - Ejecución de conjuntos de prueba, testing funcional
+</details>
 
 ### Documentación
 <details>
