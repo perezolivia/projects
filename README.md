@@ -1,13 +1,22 @@
-# My projects | Mis proyectos 🦋
-Olivia's personal coding projects. | Proyectos personales de código de Olivia.
+<img width="2566" height="900" alt="image" src="https://github.com/user-attachments/assets/fea5ef79-6aa0-43ef-bbb2-09b80222bcc7" />
+⊹ ࣪ ˖༊·˚
+ 
 ---
-## ENGLISH INDEX 🇬🇧
+## ENGLISH 🇬🇧
+# ⋆.ೃ࿔*:･ 🦋 ⊹ ࣪ ˖༊·˚ My projects ⊹ ࣪ ˖༊·˚ 🦋 ⋆.ೃ࿔*:･
+Olivia's personal coding projects.
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/dc235f90-5371-48da-880b-a2457fe970eb" />
 
+# INDEX
    - [BMP photo editor](#editor-de-fotos-bmp)
   - [Conway's Game of Life](#juego-de-la-vida-de-conway)
   - [Sistema centralizado de expensas para consorcios](#sistema-centralizado-de-expensas-para-consorcios)
 ---
-## ÍNDICE ESPAÑOL 🇦🇷
+## ESPAÑOL 🇦🇷
+# ⋆.ೃ࿔*:･ 🦋 ⊹ ࣪ ˖༊·˚ Mis Proyectos ⊹ ࣪ ˖༊·˚ 🦋 ⋆.ೃ࿔*:･
+Proyectos personales de código de Olivia.
+
+# ÍNDICE 
   - [Editor de fotos BMP](#editor-de-fotos-bmp)
   - [Juego de la vida de Conway](#juego-de-la-vida-de-conway)
   - [Sistema centralizado de expensas para consorcios](#sistema-centralizado-de-expensas-para-consorcios)
@@ -22,19 +31,30 @@ Juego de la vida de Conway.
 
 ---
 ## `Sistema centralizado de expensas para consorcios`
-### ✨ ¿Qué es?
+ ### ✨ ¿Qué es?
+<details>
+   <summary> </summary>
 Este proyecto es un sistema centralizado para una administración de consorcios que genera las expensas de cada consorcio de forma automatizada y mensual.
+</details>
 
 ### 🌟 ¿Qué hace?
+<details>
+   <summary> </summary>
 El sistema genera el documento de expensas de cada consorcio al quinto día hábil de cada mes y lo envía a la dirección de correo electrónico tanto del inquilino como del propietario.
+   
 Su **alcance** es:
   - [x] Dar de alta los departamentos y consorcios existentes con sus respectivos propietarios e inquilinos
   - [x] Importar los datos de los gastos ordinarios y extraordinarios por cada unidad habitacional del consorcio de los archivos correspondientes
   - [x] Calcular el estado financiero por consorcio y el estado de cuentas y prorrateo por unidad funcional, incluyendo saldos, ingresos, egresos, intereses y porcentajes a pagar
   - [x] Actualizar todos los datos anteriores en un documento informativo que conformará la expensa mensual a enviar.
 
+</details>
+
 ### 💫 Habilidades utilizadas
+<details>
+   <summary> </summary>
 Para poder conformar el sistema, se pasó por distintas áreas del ciclo de vida de un sistema:
+   
 #### Análisis de requisitos
 - **Investigación sobre requerimientos técnicos y costo y modo de licenciamiento**
 - **Presentación de un informe al cliente conteniendo los puntos clave** (software base, motor de base de datos recomendado, personal capacitado requerido, costo del soporte técnico del DBMS, costo de licencia, seguridad y cifrado ofrecidos sobre la información)
@@ -62,6 +82,7 @@ Para poder conformar el sistema, se pasó por distintas áreas del ciclo de vida
 
 #### Lanzamiento, Despliegue y Mantenimiento
 - **Corrección de errores, actualizaciones y adaptación del sistema a nuevas necesidades mediante el mantenimiento continuo.**
+</details>
 
 ## 🌠 TL;DR: Conocimientos aplicados
 - Análisis de requerimientos
@@ -73,10 +94,16 @@ Para poder conformar el sistema, se pasó por distintas áreas del ciclo de vida
 - Ejecución de conjuntos de prueba, testing funcional
 
 ### Documentación
-La documentación detallada del proyecto se encuentra en el siguiente link.
+<details>
+   <summary> </summary>
+   
+La documentación detallada del proyecto se encuentra en el siguiente [link](https://github.com/perezolivia/projects/blob/consortiumsystem/Documentacion-Tecnica-Consorcios.pdf).
+</details>
 
 ### Nomenclatura y Estándares de Desarrollo
-
+<details>
+   <summary> </summary>
+   
 Para garantizar la coherencia y mantenibilidad del código T-SQL, se definieron las siguientes reglas de nomenclatura aplicadas a todos los objetos de la base de datos.
 
 ### 1. Convenciones Generales
@@ -111,7 +138,12 @@ La base de datos se estructura en esquemas lógicos para separar dominios de neg
 | **`datos`** | Capa de reporting y análisis de negocio. | (Contiene solo Stored Procedures de reporte) |
 | **`utils`** | Herramientas de sistema e importación. | (Scripts de carga masiva y funciones auxiliares) |
 
+</details>
+
 ### Organización del proyecto
+<details>
+   <summary> </summary>
+   
 Se realizaron siete entregas distintas del proyecto. 
 #### Entrega 1
 Se estableció un escenario hipotético en el que el cliente dispone de un servidor con determinadas capacidades y el equipo debió analizar si estas eran suficientes para alojar el motor de base de datos OracleDB.
@@ -128,7 +160,12 @@ Se generó una serie de reportes requeridos.
 #### Entrega 7
 Se establecieron políticas de seguridad como la creación de usuarios y roles específicos, así como también se realizó la encriptación de datos personales y/o sensibles.
 
+</details>
+
 ### ⚠ IMPORTANTE: Instalación
+<details>
+   <summary> </summary>
+   
 Para trabajar con este proyecto se necesita contar con los siguientes componentes instalados:
 
 #### 1. SQL Server
@@ -155,7 +192,7 @@ Crear bases de datos.
 Crear tablas, vistas, SPs y funciones.
 
 Ejecutar OPENROWSET y BULK INSERT.
-
+</details>
 
   
 
