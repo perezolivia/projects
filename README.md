@@ -8,7 +8,222 @@ Olivia's personal coding projects.
 # INDEX
    - [BMP photo editor](#editor-de-fotos-bmp)
   - [Conway's Game of Life](#juego-de-la-vida-de-conway)
-  - [Sistema centralizado de expensas para consorcios](#sistema-centralizado-de-expensas-para-consorcios)
+  - [Centralized Expense Management System for Condominiums](#centralized-expense-management-system-for-condominiums)
+---
+## `Centralized Expense Management System for Condominiums`
+
+### ✨ What is it?
+
+<details>
+   <summary> </summary>
+This project is a centralized system for condominium management that automatically generates monthly expense statements for each condominium.
+</details>
+
+### 🌟 What does it do?
+
+<details>
+   <summary> </summary>
+The system generates the expense document for each condominium on the fifth business day of each month and sends it to the email address of both the tenant and the property owner.
+
+Its **scope** is:
+
+* [x] Register existing apartments and condominiums with their respective owners and tenants
+* [x] Import ordinary and extraordinary expense data per housing unit of the condominium from the corresponding files
+* [x] Calculate the financial status per condominium and the account status and proration per functional unit, including balances, income, expenses, interest, and percentages to be paid
+* [x] Update all the above data into an informative document that will constitute the monthly expense statement to be sent
+
+</details>
+
+### 💫 Skills Used
+
+<details>
+   <summary> </summary>
+To build the system, different areas of the system life cycle were covered:
+
+#### Requirements Analysis
+
+* **Research on technical requirements and licensing cost and model**
+* **Presentation of a report to the client containing key points** (base software, recommended database engine, required trained personnel, DBMS technical support cost, license cost, security and encryption offered for the information)
+* **Research and reporting on cloud-hosted services** (cost calculations for cloud alternatives, proposal of IaaS, PaaS, and SaaS systems as appropriate, estimation of initial investment and monthly maintenance cost of a cloud database)
+* **Research of terms, acronyms, vocabulary, and business rules related to the system domain** (concepts such as CAPEX, OPEX, TCO, etc.)
+
+#### System Diagramming and Design
+
+* **Creation of an ERD that meets the scope requirements.**
+
+#### System Implementation and Development
+
+* **Installation and documentation of the DBMS to be used with the corresponding documentation**
+* **Creation of the necessary objects** (database, tables, views, stored procedures, functions, triggers, etc.) **for importing data from different file types** (.csv, .xlsx, .txt, .json)
+* **Data normalization**
+* **Generation of specific reports through parameterized SPs, with XML reports for some of them**
+* **Creation of indexes to speed up and optimize queries**
+* **Incorporation of APIs as external data sources**
+* **Encryption of sensitive/personal data**
+* **Creation of backup policies, backup scheduling, and RPO**
+
+#### Testing
+
+* **Creation of diverse test cases that meet the acceptance criteria**
+* **Review of deliverable documents and source code to ensure compliance with guidelines**
+* **Creation of executable testing scripts including test datasets**
+* **Correction of errors found during the testing phase**
+
+#### Release, Deployment, and Maintenance
+
+* **Bug fixes, updates, and adaptation of the system to new needs through continuous maintenance.**
+
+</details>
+
+### 🌠 TL;DR: Applied Knowledge
+
+<details>
+   <summary> </summary>
+
+* Requirements analysis
+* Technical writing
+* ERD creation
+* Microsoft SQL Server handling
+* **SQL**:
+
+  * Creation of databases, tables (global, in-memory, temporary, etc.), stored procedures, views, triggers, functions, indexes, among other objects
+  * SQL, dynamic SQL, and T-SQL
+  * Bulk data import from JSON, .txt, .xlsx, and .csv files using ACE OLEDB
+  * XML for presenting queries
+  * Integration of external APIs with T-SQL
+  * Creation of roles, users, and passwords
+  * Encryption of sensitive information using hashing
+* Use of version control systems such as Git and connection to GitHub repositories
+* Execution of test sets, functional testing
+
+</details>
+
+### Documentation
+
+<details>
+   <summary> </summary>
+
+The detailed project documentation can be found at the following [link](https://github.com/perezolivia/projects/blob/consortiumsystem/Documentacion-Tecnica-Consorcios.pdf) (written in Spanish).
+
+</details>
+
+### Nomenclature and Development Standards
+
+<details>
+   <summary> </summary>
+
+To ensure consistency and maintainability of the T-SQL code, the following naming rules were defined and applied to all database objects.
+
+### 1. General Conventions
+
+* **Language:** Spanish (use of ñ and accents is avoided in object names for compatibility).
+* **Case:** `snake_case` (lowercase separated by underscores).
+* **Singular/Plural:**
+
+  * **Tables:** Names in **singular** (e.g. `unidad_funcional`, `pago`).
+  * **Schemas:** **Plural** or collective nouns (e.g. `consorcios`, `finanzas`).
+
+### 2. Prefixes and Definitions
+
+| Database Object       | Prefix / Format          | Description                                               | Example               |
+| :-------------------- | :----------------------- | :-------------------------------------------------------- | :-------------------- |
+| **Primary Key (PK)**  | `id_` + [entity]         | Unique numeric or composite identifier.                   | `id_consorcio`        |
+| **Foreign Key (FK)**  | `id_` + [entity]         | Reference to the PK of another table.                     | `id_expensa`          |
+| **Stored Procedures** | `sp_` + [verb]           | Stored procedures for business logic.                     | `sp_generar_cuotas`   |
+| **Functions**         | `fn_` + [utility]        | Scalar or table-valued functions for data transformation. | `fn_normalizar_monto` |
+| **Indexes**           | `IX_` + [table] + [cols] | Non-clustered indexes for query optimization.             | `IX_pago_fecha`       |
+| **Variables**         | `@` + [name]             | Local variables and parameters (camelCase or snake_case). | `@fecha_hasta`        |
+
+### 3. Schema Organization
+
+The database is structured into logical schemas to separate business domains:
+
+| Schema           | Purpose                                     | Main Tables                                   |
+| :--------------- | :------------------------------------------ | :-------------------------------------------- |
+| **`consorcios`** | Structural data of properties.              | `consorcio`, `unidad_funcional`               |
+| **`personas`**   | Management of legal and physical entities.  | `persona`, `rol`, `proveedor`                 |
+| **`finanzas`**   | Transactional and accounting core.          | `pago`, `expensa`, `gasto_ordinario`, `cuota` |
+| **`gestion`**    | Administrative processes and communication. | `envio_expensa`, `tipo_envio`                 |
+| **`datos`**      | Reporting and business analysis layer.      | (Contains only reporting Stored Procedures)   |
+| **`utils`**      | System and import tools.                    | (Bulk load scripts and auxiliary functions)   |
+
+</details>
+
+### Project Organization
+
+<details>
+   <summary> </summary>
+
+Seven different project deliverables were completed.
+
+#### Deliverable 1
+
+A hypothetical scenario was established in which the client had a server with certain capabilities, and the team had to analyze whether these were sufficient to host the OracleDB database engine.
+
+#### Deliverable 2
+
+The possibility of hosting the database in the cloud was analyzed, considering three alternatives: GCP, AWS, and Microsoft Azure.
+
+#### Deliverable 3
+
+The ERD was designed to store the information required for managing condominium expenses.
+
+#### Deliverable 4
+
+The database installation document was produced.
+
+#### Deliverable 5
+
+The files containing information related to condominiums and functional units were imported.
+
+#### Deliverable 6
+
+A series of required reports were generated.
+
+#### Deliverable 7
+
+Security policies were established, such as the creation of specific users and roles, as well as the encryption of personal and/or sensitive data.
+
+</details>
+
+### ⚠ IMPORTANT: Installation
+
+<details>
+   <summary> </summary>
+
+To work with this project, the following components must be installed:
+
+#### 1. SQL Server
+
+An instance of Microsoft SQL Server is required (version 2016 or later).
+The Express version is recommended (free, with resource limitations but suitable for a small project).
+
+Download: [https://www.microsoft.com/en-us/sql-server/sql-server-downloads](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+
+#### 2. SQL Server Management Studio (SSMS)
+
+Graphical client used to manage the database, run scripts, and manage SQL objects.
+Recommended version: SSMS 19.x or later
+
+Download: [https://learn.microsoft.com/sql/ssms/download-sql-server-management-studio](https://learn.microsoft.com/sql/ssms/download-sql-server-management-studio)
+
+#### 3. Microsoft Access Database Engine (ACE OLEDB)
+
+Required for importing Excel files (.xlsx, .xls) from SQL Server using OPENROWSET or OPENQUERY. The ACE installation must match the SQL Server architecture (32 or 64 bits).
+
+Download: [https://www.microsoft.com/en-us/download/details.aspx?id=54920](https://www.microsoft.com/en-us/download/details.aspx?id=54920)
+
+#### 4. Required Permissions
+
+Make sure the SQL user used has permissions to:
+
+Create databases.
+Create tables, views, SPs, and functions.
+
+Execute OPENROWSET and BULK INSERT.
+
+</details>
+
 ---
 ## ESPAÑOL 🇦🇷
 # ⋆.ೃ࿔*:･  ⊹ ࣪ ˖༊·˚ Mis Proyectos ⊹ ࣪ ˖༊·˚  ⋆.ೃ࿔*:･ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q0NjZjbGhwZml5dm85bHNxNmk5ejNxcHNwNG11NGsyb25jeXBtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RRDU54Jjeosw6vUqGL/giphy.gif" width="100" alt="orange butterfly">
