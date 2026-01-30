@@ -1,25 +1,44 @@
-<img width="1433" height="450" alt="image" src="https://github.com/user-attachments/assets/fea5ef79-6aa0-43ef-bbb2-09b80222bcc7" />
+<img width="1060" height="796" alt="image" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZlbXlkbWNpZTBzcnFja25hdWQ2ZGVuYXZ1c29qanZsdHJtMHMxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7OM8aqLAr2xQ4/giphy.gif" />
  
-## ENGLISH 🇬🇧
-# ⋆.ೃ࿔*:･  ⊹ ࣪ ˖༊·˚ My projects ⊹ ࣪ ˖༊·˚  ⋆.ೃ࿔*:･ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q0NjZjbGhwZml5dm85bHNxNmk5ejNxcHNwNG11NGsyb25jeXBtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RRDU54Jjeosw6vUqGL/giphy.gif" width="100" alt="orange butterfly">
-Olivia's personal coding projects.
+## [🌼] ENGLISH 🇬🇧
+
+# *⋆.ೃ࿔*:･  ⊹ ࣪ ˖༊·˚ Oli's Greenhouse ⊹ ࣪ ˖༊·˚  ⋆.ೃ࿔*:･* <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q0NjZjbGhwZml5dm85bHNxNmk5ejNxcHNwNG11NGsyb25jeXBtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RRDU54Jjeosw6vUqGL/giphy.gif" width="100" alt="orange butterfly">
+*Olivia's personal coding projects.*
 
 
 # INDEX
    - [BMP photo editor](#editor-de-fotos-bmp)
   - [Conway's Game of Life](#juego-de-la-vida-de-conway)
   - [Centralized Expense Management System for Condominiums](#centralized-expense-management-system-for-condominiums)
----
-## `Centralized Expense Management System for Condominiums`
 
-### ✨ What is it?
+<img width="1433" height="450" alt="image" src="https://github.com/user-attachments/assets/fea5ef79-6aa0-43ef-bbb2-09b80222bcc7" />
+
+## `BMP photo editor` 
+<details>
+   <summary> [🦋] Click here to read more about this project. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFpMmR3aGNxZDdjOWF0cWFpN2V1cTB6dHRpN2IwdG90cTZyNmlpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFjs54kiepdNN5Xxff/giphy.gif" width="70" alt="cherry blossom"> </summary>
+
+   `[🐛] OOPS! Details under construction... Coming soon!`
+</details>
+
+## `Conway's Game of Life` 
+<details>
+   <summary> [🦋] Click here to read more about this project. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVjb2NvYnEyYmhoYm5sN3Q0bDRqbDlmbmFpZnRtbjBhOHMyeTB3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xiBeL8WXCzY1ld226Z/giphy.gif" width="120" alt="blue butterflies"> </summary>
+ 
+   `[🐛] OOPS! Details under construction... Coming soon!`
+</details>
+
+## `Centralized Expense Management System for Condominiums` 
+<details>
+   <summary> [🦋] Click here to read more about this project. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ6MDNuY2pycGRvZWg3OXkzYnJpeDF5NmtoeGxnaTk3NjBmcWNvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m3U09a2KOojZIr2nZG/giphy.gif" width="100" alt="hummingbird"> </summary>
+ 
+### 🌸 What is it?
 
 <details>
    <summary> </summary>
 This project is a centralized system for condominium management that automatically generates monthly expense statements for each condominium.
 </details>
 
-### 🌟 What does it do?
+### 🌱 What does it do?
 
 <details>
    <summary> </summary>
@@ -34,7 +53,7 @@ Its **scope** is:
 
 </details>
 
-### 💫 Skills Used
+### 🌺 Skills Used
 
 <details>
    <summary> </summary>
@@ -75,7 +94,7 @@ To build the system, different areas of the system life cycle were covered:
 
 </details>
 
-### 🌠 TL;DR: Applied Knowledge
+### 🍃 TL;DR: Applied Knowledge
 
 <details>
    <summary> </summary>
@@ -186,7 +205,7 @@ Security policies were established, such as the creation of specific users and r
 
 </details>
 
-### ⚠ IMPORTANT: Installation
+### 🎀 IMPORTANT: Installation
 
 <details>
    <summary> </summary>
@@ -224,33 +243,48 @@ Execute OPENROWSET and BULK INSERT.
 
 </details>
 
+</details>
+
 ---
-## ESPAÑOL 🇦🇷
-# ⋆.ೃ࿔*:･  ⊹ ࣪ ˖༊·˚ Mis Proyectos ⊹ ࣪ ˖༊·˚  ⋆.ೃ࿔*:･ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q0NjZjbGhwZml5dm85bHNxNmk5ejNxcHNwNG11NGsyb25jeXBtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RRDU54Jjeosw6vUqGL/giphy.gif" width="100" alt="orange butterfly">
-Proyectos personales de código de Olivia.
+## [🌼] ESPAÑOL 🇦🇷
+# *⋆.ೃ࿔*:･  ⊹ ࣪ ˖༊·˚ El invernadero de Oli ⊹ ࣪ ˖༊·˚  ⋆.ೃ࿔*:･* <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q0NjZjbGhwZml5dm85bHNxNmk5ejNxcHNwNG11NGsyb25jeXBtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RRDU54Jjeosw6vUqGL/giphy.gif" width="100" alt="orange butterfly">
+*Proyectos personales de código de Olivia.*
 
 # ÍNDICE 
   - [Editor de fotos BMP](#editor-de-fotos-bmp)
   - [Juego de la vida de Conway](#juego-de-la-vida-de-conway)
   - [Sistema centralizado de expensas para consorcios](#sistema-centralizado-de-expensas-para-consorcios)
 
+<img width="1433" height="450" alt="image" src="https://github.com/user-attachments/assets/fea5ef79-6aa0-43ef-bbb2-09b80222bcc7" />
+
+## `Editor de fotos BMP`
+<details>
+   <summary> [🦋] Click aquí para saber más sobre el proyecto. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFpMmR3aGNxZDdjOWF0cWFpN2V1cTB6dHRpN2IwdG90cTZyNmlpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFjs54kiepdNN5Xxff/giphy.gif" width="70" alt="cherry blossom"> </summary>
+ 
+   `[🐛] Upsi! Info en construcción... Vuelva prontos!`
+
+</details>
+
+## `Juego de la vida de Conway`
+<details>
+   <summary> [🦋] Click aquí para saber más sobre el proyecto. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVjb2NvYnEyYmhoYm5sN3Q0bDRqbDlmbmFpZnRtbjBhOHMyeTB3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xiBeL8WXCzY1ld226Z/giphy.gif" width="120" alt="blue butterflies"> </summary>
+ 
+   `[🐛] Upsi! Info en construcción... Vuelva prontos!`
+</details>
+
 ---
 
-### Editor de fotos BMP
-Esto es un editor de imágenes.
-
-### Juego de la vida de Conway
-Juego de la vida de Conway.
-
----
 ## `Sistema centralizado de expensas para consorcios`
- ### ✨ ¿Qué es?
+<details>
+   <summary> [🦋] Click aquí para saber más sobre el proyecto. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ6MDNuY2pycGRvZWg3OXkzYnJpeDF5NmtoeGxnaTk3NjBmcWNvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m3U09a2KOojZIr2nZG/giphy.gif" width="100" alt="hummingbird"> </summary>
+
+ ### 🌸 ¿Qué es?
 <details>
    <summary> </summary>
 Este proyecto es un sistema centralizado para una administración de consorcios que genera las expensas de cada consorcio de forma automatizada y mensual.
 </details>
 
-### 🌟 ¿Qué hace?
+### 🌱 ¿Qué hace?
 <details>
    <summary> </summary>
 El sistema genera el documento de expensas de cada consorcio al quinto día hábil de cada mes y lo envía a la dirección de correo electrónico tanto del inquilino como del propietario.
@@ -263,7 +297,7 @@ Su **alcance** es:
 
 </details>
 
-### 💫 Habilidades utilizadas
+### 🌺 Habilidades utilizadas
 <details>
    <summary> </summary>
 Para poder conformar el sistema, se pasó por distintas áreas del ciclo de vida de un sistema:
@@ -297,7 +331,7 @@ Para poder conformar el sistema, se pasó por distintas áreas del ciclo de vida
 - **Corrección de errores, actualizaciones y adaptación del sistema a nuevas necesidades mediante el mantenimiento continuo.**
 </details>
 
-### 🌠 TL;DR: Conocimientos aplicados
+### 🍃 TL;DR: Conocimientos aplicados
 <details>
    <summary> </summary>
  
@@ -386,7 +420,7 @@ Se establecieron políticas de seguridad como la creación de usuarios y roles e
 
 </details>
 
-### ⚠ IMPORTANTE: Instalación
+### 🎀 IMPORTANTE: Instalación
 <details>
    <summary> </summary>
    
@@ -416,6 +450,8 @@ Crear bases de datos.
 Crear tablas, vistas, SPs y funciones.
 
 Ejecutar OPENROWSET y BULK INSERT.
+</details>
+
 </details>
 
   
