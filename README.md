@@ -9,9 +9,10 @@
 
 
 # INDEX
-   - [BMP photo editor](#editor-de-fotos-bmp)
-  - [Conway's Game of Life](#juego-de-la-vida-de-conway)
-  - [Centralized Expense Management System for Condominiums](#centralized-expense-management-system-for-condominiums)
+*All projects are separated in branches. To check the code out, click on the "branch" right next to the project name!*
+  - [BMP photo editor](#editor-de-fotos-bmp)   [<img width="54" height="35" alt="image" src="https://github.com/user-attachments/assets/e6b33e77-4ded-4f00-b5b6-b35534b56792" />](https://github.com/perezolivia/projects/tree/bmpmanipulator)
+  - [Conway's Game of Life](#juego-de-la-vida-de-conway)   [<img width="54" height="35" alt="image" src="https://github.com/user-attachments/assets/e6b33e77-4ded-4f00-b5b6-b35534b56792" />](https://github.com/perezolivia/projects/tree/conwaygame)
+  - [Centralized Expense Management System for Condominiums](#centralized-expense-management-system-for-condominiums)   [<img width="54" height="35" alt="image" src="https://github.com/user-attachments/assets/e6b33e77-4ded-4f00-b5b6-b35534b56792" />](https://github.com/perezolivia/projects/tree/consortiumsystem)
 
 <img width="1433" height="450" alt="image" src="https://github.com/user-attachments/assets/fea5ef79-6aa0-43ef-bbb2-09b80222bcc7" />
 
@@ -256,7 +257,9 @@ Execute OPENROWSET and BULK INSERT.
    
 </details> <!--close ENGLISH page-->
 
----
+
+
+<img width="1080" height="180" alt="image" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc4OWZmemVzajhvdHkzODBmeWFhdXB6YzAwcDZzdGI5bngyenMweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tcPPz8rnGa0uWRE9gX/giphy.gif" />
 
 ## [🌼] ESPAÑOL 🇦🇷
 <details> <summary></summary> <!--open ESPAÑOL page-->
@@ -265,9 +268,10 @@ Execute OPENROWSET and BULK INSERT.
 *Proyectos personales de código de Olivia.*
 
 # ÍNDICE 
-  - [Editor de fotos BMP](#editor-de-fotos-bmp)
-  - [Juego de la vida de Conway](#juego-de-la-vida-de-conway)
-  - [Sistema centralizado de expensas para consorcios](#sistema-centralizado-de-expensas-para-consorcios)
+*Todos los proyectos están divididos en ramas. Para ver el código, haz clic en la "rama" al lado del nombre del proyecto!*
+  - [Editor de fotos BMP](#editor-de-fotos-bmp)   [<img width="54" height="35" alt="image" src="https://github.com/user-attachments/assets/e6b33e77-4ded-4f00-b5b6-b35534b56792" />](https://github.com/perezolivia/projects/tree/bmpmanipulator)
+  - [Juego de la vida de Conway](#juego-de-la-vida-de-conway)   [<img width="54" height="35" alt="image" src="https://github.com/user-attachments/assets/e6b33e77-4ded-4f00-b5b6-b35534b56792" />](https://github.com/perezolivia/projects/tree/conwaygame)
+  - [Sistema centralizado de expensas para consorcios](#sistema-centralizado-de-expensas-para-consorcios)   [<img width="54" height="35" alt="image" src="https://github.com/user-attachments/assets/e6b33e77-4ded-4f00-b5b6-b35534b56792" />](https://github.com/perezolivia/projects/tree/consortiumsystem)
 
 <img width="1433" height="450" alt="image" src="https://github.com/user-attachments/assets/fea5ef79-6aa0-43ef-bbb2-09b80222bcc7" />
 
