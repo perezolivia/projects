@@ -2,6 +2,8 @@
  
 ## [🌼] ENGLISH 🇬🇧
 
+<details> <summary></summary> <!--open ENGLISH page-->
+
 # *⋆.ೃ࿔*:･  ⊹ ࣪ ˖༊·˚ Oli's Greenhouse ⊹ ࣪ ˖༊·˚  ⋆.ೃ࿔*:･* <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q0NjZjbGhwZml5dm85bHNxNmk5ejNxcHNwNG11NGsyb25jeXBtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RRDU54Jjeosw6vUqGL/giphy.gif" width="100" alt="orange butterfly">
 *Olivia's personal coding projects.*
 
@@ -14,22 +16,22 @@
 <img width="1433" height="450" alt="image" src="https://github.com/user-attachments/assets/fea5ef79-6aa0-43ef-bbb2-09b80222bcc7" />
 
 ## `BMP photo editor` 
-<details>
-   <summary> [🦋] Click here to read more about this project. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFpMmR3aGNxZDdjOWF0cWFpN2V1cTB6dHRpN2IwdG90cTZyNmlpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFjs54kiepdNN5Xxff/giphy.gif" width="70" alt="cherry blossom"> </summary>
+   <details> <!--open details: bmp photo editor-->
+      <summary> [🦋] Click here to read more about this project. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFpMmR3aGNxZDdjOWF0cWFpN2V1cTB6dHRpN2IwdG90cTZyNmlpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFjs54kiepdNN5Xxff/giphy.gif" width="70" alt="cherry blossom"> </summary>
 
    `[🐛] OOPS! Details under construction... Coming soon!`
-</details>
+   </details> <!--close details: bmp photo editor-->
 
 ## `Conway's Game of Life` 
-<details>
-   <summary> [🦋] Click here to read more about this project. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVjb2NvYnEyYmhoYm5sN3Q0bDRqbDlmbmFpZnRtbjBhOHMyeTB3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xiBeL8WXCzY1ld226Z/giphy.gif" width="120" alt="blue butterflies"> </summary>
+   <details> <!--open details: conway game-->
+      <summary> [🦋] Click here to read more about this project. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVjb2NvYnEyYmhoYm5sN3Q0bDRqbDlmbmFpZnRtbjBhOHMyeTB3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xiBeL8WXCzY1ld226Z/giphy.gif" width="120" alt="blue butterflies"> </summary>
  
    `[🐛] OOPS! Details under construction... Coming soon!`
-</details>
+   </details> <!--close details: conway game-->
 
 ## `Centralized Expense Management System for Condominiums` 
-<details>
-   <summary> [🦋] Click here to read more about this project. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ6MDNuY2pycGRvZWg3OXkzYnJpeDF5NmtoeGxnaTk3NjBmcWNvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m3U09a2KOojZIr2nZG/giphy.gif" width="100" alt="hummingbird"> </summary>
+   <details> <!--open details: expense system-->
+      <summary> [🦋] Click here to read more about this project. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ6MDNuY2pycGRvZWg3OXkzYnJpeDF5NmtoeGxnaTk3NjBmcWNvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m3U09a2KOojZIr2nZG/giphy.gif" width="100" alt="hummingbird"> </summary>
  
 ### 🌸 What is it?
 
@@ -117,19 +119,23 @@ To build the system, different areas of the system life cycle were covered:
 
 </details>
 
+### 🌷 To understand this project
+<details> 
+   <summary> Here you'll find documentation, development standards and project organization. </summary>
+
 ### Documentation
 
-<details>
-   <summary> </summary>
+   <details>
+      <summary> </summary>
 
 The detailed project documentation can be found at the following [link](https://github.com/perezolivia/projects/blob/consortiumsystem/Documentacion-Tecnica-Consorcios.pdf) (written in Spanish).
 
-</details>
+   </details>
 
 ### Nomenclature and Development Standards
 
-<details>
-   <summary> </summary>
+   <details>
+      <summary> </summary>
 
 To ensure consistency and maintainability of the T-SQL code, the following naming rules were defined and applied to all database objects.
 
@@ -166,12 +172,12 @@ The database is structured into logical schemas to separate business domains:
 | **`datos`**      | Reporting and business analysis layer.      | (Contains only reporting Stored Procedures)   |
 | **`utils`**      | System and import tools.                    | (Bulk load scripts and auxiliary functions)   |
 
-</details>
+   </details>
 
 ### Project Organization
 
-<details>
-   <summary> </summary>
+   <details>
+      <summary> </summary>
 
 Seven different project deliverables were completed.
 
@@ -202,6 +208,8 @@ A series of required reports were generated.
 #### Deliverable 7
 
 Security policies were established, such as the creation of specific users and roles, as well as the encryption of personal and/or sensitive data.
+
+   </details>
 
 </details>
 
@@ -241,12 +249,18 @@ Create tables, views, SPs, and functions.
 
 Execute OPENROWSET and BULK INSERT.
 
-</details>
 
-</details>
+   </details> 
+
+ </details> <!--close details: expense system-->
+   
+</details> <!--close ENGLISH page-->
 
 ---
+
 ## [🌼] ESPAÑOL 🇦🇷
+<details> <summary></summary> <!--open ESPAÑOL page-->
+
 # *⋆.ೃ࿔*:･  ⊹ ࣪ ˖༊·˚ El invernadero de Oli ⊹ ࣪ ˖༊·˚  ⋆.ೃ࿔*:･* <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q0NjZjbGhwZml5dm85bHNxNmk5ejNxcHNwNG11NGsyb25jeXBtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RRDU54Jjeosw6vUqGL/giphy.gif" width="100" alt="orange butterfly">
 *Proyectos personales de código de Olivia.*
 
@@ -258,25 +272,25 @@ Execute OPENROWSET and BULK INSERT.
 <img width="1433" height="450" alt="image" src="https://github.com/user-attachments/assets/fea5ef79-6aa0-43ef-bbb2-09b80222bcc7" />
 
 ## `Editor de fotos BMP`
-<details>
-   <summary> [🦋] Click aquí para saber más sobre el proyecto. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFpMmR3aGNxZDdjOWF0cWFpN2V1cTB6dHRpN2IwdG90cTZyNmlpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFjs54kiepdNN5Xxff/giphy.gif" width="70" alt="cherry blossom"> </summary>
+   <details>  <!--open details: editor fotos bmp-->
+      <summary> [🦋] Click aquí para saber más sobre el proyecto. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFpMmR3aGNxZDdjOWF0cWFpN2V1cTB6dHRpN2IwdG90cTZyNmlpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFjs54kiepdNN5Xxff/giphy.gif" width="70" alt="cherry blossom"> </summary>
  
    `[🐛] Upsi! Info en construcción... Vuelva prontos!`
 
-</details>
+   </details>  <!--close details: editor fotos bmp-->
 
 ## `Juego de la vida de Conway`
-<details>
-   <summary> [🦋] Click aquí para saber más sobre el proyecto. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVjb2NvYnEyYmhoYm5sN3Q0bDRqbDlmbmFpZnRtbjBhOHMyeTB3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xiBeL8WXCzY1ld226Z/giphy.gif" width="120" alt="blue butterflies"> </summary>
+   <details> <!--open details: juego conway-->
+      <summary> [🦋] Click aquí para saber más sobre el proyecto. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVjb2NvYnEyYmhoYm5sN3Q0bDRqbDlmbmFpZnRtbjBhOHMyeTB3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xiBeL8WXCzY1ld226Z/giphy.gif" width="120" alt="blue butterflies"> </summary>
  
    `[🐛] Upsi! Info en construcción... Vuelva prontos!`
-</details>
+   </details> <!--close details: juego conway-->
 
 ---
 
 ## `Sistema centralizado de expensas para consorcios`
-<details>
-   <summary> [🦋] Click aquí para saber más sobre el proyecto. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ6MDNuY2pycGRvZWg3OXkzYnJpeDF5NmtoeGxnaTk3NjBmcWNvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m3U09a2KOojZIr2nZG/giphy.gif" width="100" alt="hummingbird"> </summary>
+   <details>
+      <summary> [🦋] Click aquí para saber más sobre el proyecto. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ6MDNuY2pycGRvZWg3OXkzYnJpeDF5NmtoeGxnaTk3NjBmcWNvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m3U09a2KOojZIr2nZG/giphy.gif" width="100" alt="hummingbird"> </summary>
 
  ### 🌸 ¿Qué es?
 <details>
@@ -332,6 +346,7 @@ Para poder conformar el sistema, se pasó por distintas áreas del ciclo de vida
 </details>
 
 ### 🍃 TL;DR: Conocimientos aplicados
+
 <details>
    <summary> </summary>
  
@@ -349,18 +364,24 @@ Para poder conformar el sistema, se pasó por distintas áreas del ciclo de vida
   -  Encriptado de información sensible con hash.
 - Manejo de sistemas de control de versiones como Git y su conexión a repositorios en GitHub
 - Ejecución de conjuntos de prueba, testing funcional
+  
 </details>
+
+### 🌷 Para entender este proyecto
+
+<details> 
+   <summary> Aquí encontrarás documentación, estándares de desarrollo y la organización del proyecto. </summary>
 
 ### Documentación
-<details>
-   <summary> </summary>
+   <details>
+      <summary> </summary>
    
 La documentación detallada del proyecto se encuentra en el siguiente [link](https://github.com/perezolivia/projects/blob/consortiumsystem/Documentacion-Tecnica-Consorcios.pdf).
-</details>
+   </details>
 
 ### Nomenclatura y Estándares de Desarrollo
-<details>
-   <summary> </summary>
+   <details>
+      <summary> </summary>
    
 Para garantizar la coherencia y mantenibilidad del código T-SQL, se definieron las siguientes reglas de nomenclatura aplicadas a todos los objetos de la base de datos.
 
@@ -396,11 +417,11 @@ La base de datos se estructura en esquemas lógicos para separar dominios de neg
 | **`datos`** | Capa de reporting y análisis de negocio. | (Contiene solo Stored Procedures de reporte) |
 | **`utils`** | Herramientas de sistema e importación. | (Scripts de carga masiva y funciones auxiliares) |
 
-</details>
+   </details>
 
 ### Organización del proyecto
-<details>
-   <summary> </summary>
+   <details>
+      <summary> </summary>
    
 Se realizaron siete entregas distintas del proyecto. 
 #### Entrega 1
@@ -417,6 +438,8 @@ Se realizó la importación de los archivos que contienen la información relaci
 Se generó una serie de reportes requeridos. 
 #### Entrega 7
 Se establecieron políticas de seguridad como la creación de usuarios y roles específicos, así como también se realizó la encriptación de datos personales y/o sensibles.
+
+   </details>
 
 </details>
 
@@ -450,9 +473,13 @@ Crear bases de datos.
 Crear tablas, vistas, SPs y funciones.
 
 Ejecutar OPENROWSET y BULK INSERT.
-</details>
 
-</details>
+   </details> 
+   
+ </details> <!--close details: sistema expensas-->
+   
+</details> <!--close ESPAÑOL page-->
+
 
   
 
