@@ -10,15 +10,15 @@
 
 # INDEX
 *All projects are separated in branches. To check the code out, click on the "branch" right next to the project name!*
-  - [BMP photo editor](#editor-de-fotos-bmp)   [<img width="54" height="35" alt="image" src="https://github.com/user-attachments/assets/e6b33e77-4ded-4f00-b5b6-b35534b56792" />](https://github.com/perezolivia/projects/tree/bmpmanipulator)
-  - [Conway's Game of Life](#juego-de-la-vida-de-conway)   [<img width="54" height="35" alt="image" src="https://github.com/user-attachments/assets/e6b33e77-4ded-4f00-b5b6-b35534b56792" />](https://github.com/perezolivia/projects/tree/conwaygame)
-  - [Centralized Expense Management System for Condominiums](#centralized-expense-management-system-for-condominiums)   [<img width="54" height="35" alt="image" src="https://github.com/user-attachments/assets/e6b33e77-4ded-4f00-b5b6-b35534b56792" />](https://github.com/perezolivia/projects/tree/consortiumsystem)
+  - [BMP photo editor](#editor-de-fotos-bmp)   [<img width="60" height="55" alt="image" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFpMmR3aGNxZDdjOWF0cWFpN2V1cTB6dHRpN2IwdG90cTZyNmlpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFjs54kiepdNN5Xxff/giphy.gif" />](https://github.com/perezolivia/projects/tree/bmpmanipulator)
+  - [Conway's Game of Life](#juego-de-la-vida-de-conway)   [<img width="60" height="55" alt="image" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFpMmR3aGNxZDdjOWF0cWFpN2V1cTB6dHRpN2IwdG90cTZyNmlpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFjs54kiepdNN5Xxff/giphy.gif" />](https://github.com/perezolivia/projects/tree/conwaygame)
+  - [Centralized Expense Management System for Condominiums](#centralized-expense-management-system-for-condominiums)   [<img width="60" height="55" alt="image" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFpMmR3aGNxZDdjOWF0cWFpN2V1cTB6dHRpN2IwdG90cTZyNmlpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFjs54kiepdNN5Xxff/giphy.gif" />](https://github.com/perezolivia/projects/tree/consortiumsystem)
 
 <img width="1433" height="450" alt="image" src="https://github.com/user-attachments/assets/fea5ef79-6aa0-43ef-bbb2-09b80222bcc7" />
 
 ## `BMP photo editor` 
    <details> <!--open details: bmp photo editor-->
-      <summary> [🦋] Click here to read more about this project. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFpMmR3aGNxZDdjOWF0cWFpN2V1cTB6dHRpN2IwdG90cTZyNmlpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OFjs54kiepdNN5Xxff/giphy.gif" width="70" alt="cherry blossom"> </summary>
+      <summary> [🦋] Click here to read more about this project. <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnI0d3l2YnlnNjU0MjE5Y2o4ZmJ3c2plM295Zm05OWN0bGh4M3Q0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvecaaeGoBsvtOqqWJ/giphy.gif" width="55" alt="bee"> </summary>
 
    `[🐛] OOPS! Details under construction... Coming soon!`
    </details> <!--close details: bmp photo editor-->
